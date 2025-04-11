@@ -1,0 +1,3 @@
+0.10s   200123 https://naver.com
+1.14s   107364 https://daum.com
+1.14s elapsed
